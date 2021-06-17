@@ -18,3 +18,4 @@
 git clone https://github.com/liuran001/openwrt-packages.git package/luci-app-adguardhome
 git clone https://github.com/liuran001/openwrt-packages.git package/luci-app-aliddns
 git clone https://github.com/liuran001/openwrt-packages.git package/luci-app-jd-dailybonus
+git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git
