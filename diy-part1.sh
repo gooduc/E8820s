@@ -23,6 +23,6 @@ sed -i '$a src-git helloworld https://github.com/fw876/helloworld' feeds.conf.de
 git clone https://github.com/liuran001/openwrt-packages.git package/luci-app-adguardhome
 git clone https://github.com/liuran001/openwrt-packages.git package/luci-app-aliddns
 
-git clone https://github.com/liuran001/openwrt-packages.git package/luci-app-passwall-plus
-git clone https://github.com/liuran001/openwrt-packages.git package/luci-app-passwall
-git clone https://github.com/liuran001/openwrt-packages.git package/luci-app-ssr-plus
+#git clone https://github.com/liuran001/openwrt-packages.git package/luci-app-passwall-plus
+#git clone https://github.com/liuran001/openwrt-packages.git package/luci-app-passwall
+#git clone https://github.com/liuran001/openwrt-packages.git package/luci-app-ssr-plus
